@@ -1,14 +1,14 @@
 <div class='container'>
 	<div class="btn register">
-		<a href='' class='btn-title'>Register</a>
+		<a href="/" class='btn-title'>Register</a>
 		<div class='sub'>Create Account</div>
 	</div>
 	<div class="btn library">
-		<a href='' class="btn-title">Device Library</a>
+		<a href="/" class="btn-title">Device Library</a>
 		<div class="sub">Browse Devices</div>
 	</div>
 	<div class="btn create">
-		<a href='' class="btn-title">Share A Device</a>
+		<a href="/" class="btn-title">Share A Device</a>
 		<div class="sub">Contribute</div>
 	</div>
 </div>

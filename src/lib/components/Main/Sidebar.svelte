@@ -24,7 +24,7 @@
 		<ul>
 			{#each updatedDevices as ud}
 			<li class='ud'>
-				<a href="">{ ud }</a>
+				<a href="/">{ ud }</a>
 			</li>
 			{/each}
 		</ul>
@@ -34,7 +34,7 @@
 		<h4 class="">Resources</h4>
 		<ul>
 			<li class='ud'>
-				<a href="">Max for Live Production Guidelines</a>
+				<a href="/">Max for Live Production Guidelines</a>
 			</li>
 		</ul>
 	</div>
@@ -43,10 +43,10 @@
 		<h4 class="">Library Stats</h4>
 		<ul>
 			<li class='ud'>
-				<a href="">666 registered users</a>
+				<a href="/">666 registered users</a>
 			</li>
 			<li>
-				<a href="">74 shared devices</a>
+				<a href="/">74 shared devices</a>
 			</li>
 		</ul>
 	</div>

@@ -5,11 +5,11 @@
 	</div>
 
 	<div class="right">
-		<a href="">Home</a>
-		<a href="">Login</a>
-		<a href="">Help</a>
-		<a href="">Contact</a>
-		<a href="">RSS</a>
+		<a href="/">Home</a>
+		<a href="/">Login</a>
+		<a href="/">Help</a>
+		<a href="/">Contact</a>
+		<a href="/">RSS</a>
 	</div>
 </header>
 
