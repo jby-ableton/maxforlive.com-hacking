@@ -1,0 +1,11 @@
+:root {
+	--blue: #0293b4
+}
+
+html {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+	background-color: #cccccc;
+}
